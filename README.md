@@ -2,9 +2,10 @@
 
 this repo is using a Myers–Briggs Type Indicator assessment on openai gpt4o. 
 
-it is not mean to be taken seriously.
+it is not mean to be taken seriously. i'm not a psychologist. i don't know what i'm doing. if i'm doing things wrong, let me know or open a pr.
 
-i'm not a psychologist. i don't know what i'm doing. if i'm doing things wrong, let me know or open a pr.
+for a writeup about this repo, checkout
+[GPT-4o's Personality Revealed: An INFJ in the Machine?](https://cfrenchi.github.io/llm/mbti/2024/11/17/gpt4o-personality-assessment.html)
 
 ## setup your .env
 copy the .env.sample and save it as .env
